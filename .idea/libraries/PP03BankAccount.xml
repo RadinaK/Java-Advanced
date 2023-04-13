@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PP03BankAccount">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PP03BankAccount/PP03BankAccount.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
